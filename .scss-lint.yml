@@ -1,0 +1,3 @@
+exclude: 'node_modules/*'
+exlcude: 'assets/styles/ct-paper/*'
+exlcude: 'assets/styles/ct-paper/mixins/*'
